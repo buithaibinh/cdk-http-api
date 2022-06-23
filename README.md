@@ -1,7 +1,7 @@
 # Welcome to your CDK TypeScript project
 
 A repository for an article on
-[codewithyou.com](https://www.codewithyou.com/blog)
+[codewithyou.com](https://www.codewithyou.com/blog/aws-lambda-proxy-integrations-for-http-apis-in-aws-cdk)
 
 ## How to Use
 
